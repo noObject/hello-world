@@ -1,6 +1,6 @@
 this is my first readme for git
 
-git ³£ÓÃÃüÁî
+git common used command 
 
 git add
 git commit -m
